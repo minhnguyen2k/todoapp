@@ -1,0 +1,15 @@
+.frame
+{
+    box-shadow: 0 0 10px rgba(0,0,0,.08);
+    border-radius: 15px;
+}
+body { padding-right: 0 !important }
+th {
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.btn-group-sm>.btn, .btn-sm {
+    padding: 6px;
+}
